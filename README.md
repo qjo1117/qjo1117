@@ -7,7 +7,7 @@
 
 
 # DirectX Repogitory
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qjo1117&repo=DX)](https://github.com/qjo1117/DX_Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qjo1117&repo=Fiver_Nobar)](https://github.com/qjo1117/Fever_Nova)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qjo1117&repo=DX_Portfolio)](https://github.com/qjo1117/DX_Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qjo1117&repo=Fever_Nova)](https://github.com/qjo1117/Fever_Nova)
 
 
